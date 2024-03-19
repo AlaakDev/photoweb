@@ -1,0 +1,57 @@
+#header {
+    background-color:green;
+    height: 80px;
+    width: 100vw;
+}
+
+#header ul {
+    float: right;
+}
+
+#header ul li {
+    display: inline;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+#pics {
+    display: flex;
+    padding: 40px   ;   
+}
+
+body {
+    background-color:green;
+    padding-left: 0%;
+}
+
+#heading {
+    background-color: black;
+    height: 50px;
+}
+
+#heading h1 {
+   color: green;
+}
+
+#biography {
+    height: 400px;
+    background-color: black;
+}
+
+#biography {
+    color: whitesmoke;
+}
+
+h2 {
+    color: green;
+}
+
+#header h3 {
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
